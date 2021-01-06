@@ -1,0 +1,275 @@
+DAMANPREET SINGH DAHELE
+DATA ANALYST
+
+
+
+An enthusiastic & high energy-driven professional; targeting challenging assignments in Data Analysis in organization of high repute
+
+DAMANPREET SINGH DAHELE
+DATA ANALYST
+
+
+
+An enthusiastic & high energy-driven professional; targeting challenging assignments in Data Analysis in organization of high repute
+
+
+
+
+
+
+
+  damanpreets26@gmail.com                                                                          +9341433355234976812311231296433305112345512a1111aa2345
+
+  damanpreets26@gmail.com                                                                          +9341433355234976812311231296433305112345512a1111aa2345
+
+
+ Profile Summary
+
+
+
+Highly skilled Data Analyst with over 6 years of experience in IT with 4 years of experience in end-to-end process of Data Analysis entailing As-Is / To-Be Analysis, mapping & finalizing requirements, documenting functional specifications and converting them into solutions
+
+Self-taught in Python, Data Mining/Cleaning/Scrapping, NLP, Machine learning Model, Keras, Tableau and Web Applications
+
+Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, clustering and so on
+
+Talented Analyst with exceptional background in utilizing data from diverse information systems and performing analysis of large data sets to remarkably improve organizational decision making capabilities 
+
+Proactively analyzed data to answer key questions from stakeholders or out of self-initiated curiosity with an eye for what drove business performance, investigating and communicating areas for improvement in efficiency and productivity
+
+An effective team member with proven skills in working with various teams; guiding team members and enabling knowledge sharing among the team
+
+
+
+ Academic Details 
+
+
+
+B.Tech.(IT) from Guru Nanak Dev Engineering College, Ludhiana (PTU) with 74.6% in 2013
+
+12th from Tagore Public School, Ludhiana with 86.8% in 2009
+
+10th from Tagore Public School, Ludhiana(CBSE) with 90.6% in 2007
+
+
+
+ Certifications
+
+
+ITIL v3 Certified
+
+Java SE 7 Certified
+
+Python bootcamp(udemy)
+
+MySQL (udemy)
+
+Tableau (udemy)
+
+
+
+ Core Competencies
+
+
+Business Analysis
+
+Requirement Life Cycle Management
+
+Data Visualization
+
+
+
+
+
+
+
+Client Relationship Management
+
+Machine Learning
+
+Artificial Intelligence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		 Organizational Experience
+
+
+Since Jan’14: DATA Consultancy Services Limited
+
+Growth Path:
+
+Jan’14-Oct’16: System Engineer
+
+Since Oct’16: Data Analyst
+
+
+
+Key Result Areas: 
+
+Analyzed business requirements and aligned them with functional & technical requirements
+
+Maintained a cordial relationship between Business and Technical Personnel to ensure the flow of communication between the team increasing the understanding of the application and processes
+
+Identified inefficiencies in business processes and recommended improved policies
+
+Interfaced with a cross-functional team of business analysts, developers and technical support professionals to determine a comprehensive list of requirement specifications for new applications
+
+Conducting source mapping, analysis (quantitative and qualitative) and validation of data
+
+Identifying key areas in business process improvement and providing support for performance related issues and system improvements
+
+Developing business solutions thus saving cost, time & effort and improvement in quality; suggesting process improvements, advising system features and proposing alternatives
+
+Presenting client specific actionable information through formulation of daily, weekly and monthly reporting framework; designing and conceptualizing dashboard views and standardizing reporting formats across geographies and functions
+
+
+
+Highlights:
+
+Worked in a team of 21 members for the world's 10th largest pharmaceutical company
+
+Created multiple Python /Shell (Linux) / Batch (Windows)/scripts to automate the manual tasks involving 1000+ (Windows and Linux servers)
+
+Developed different models for predicting/clustering customer data and used the insights to help business and customers
+
+
+
+Project Executed:
+
+
+
+Title: Sentiment analysis of Customer review
+
+Technology: Python, Jupyter Notebook and Excel
+
+Methods: spacy, NLTK, vedar, pandas, Graphical Visualization
+
+Role:
+
+Developed a model for predicting customer reviews as positive or negative based on the text reviews by the customer for the services provided.
+
+Used the derived KPI's to gain insights on the behavioral segments of customers
+
+
+
+Title: Time Series Analysis 
+
+Technology: Python, Jupyter Notebook and Excel
+
+Methods: Decomposition, ARIMA, SARIMA, Graphical Visualization
+
+Role:
+
+Developed a model for predicting Service Availability (SA) and used the insights from the time series analysis to make changes in the Monthly Status Report (MSR) predicting the SA, helping business and customers to manage resources effectively
+
+Used Decomposition, ARIMA, SARIMA for model creation using the past Service Availability (SA) data
+
+
+
+Title: Churn Prediction of Customers/partner
+
+Technology: Python, Jupyter Notebook and Excel
+
+Methods: Logistic Regression, Decision Trees, Random Forest, Hypothesis Analysis, Graphical Visualization
+
+Role:
+
+Developed a model for predicting customer churn and used the insights from the model to develop an incentive plan for enticing would-be customers to remain with the company
+
+Used different Feature Selection methods for the model, maintaining the model with the new customer trend
+
+
+
+Title: Customer/partner Segmentation
+
+Technology: Python, Jupyter Notebook and Excel
+
+Methods: K-Means, EDA, Hypothesis Analysis, Graphical Visualization
+
+Role:
+
+After Data cleaning, helped in Developing a model for creating customer/partner segmentation and used the customer classes to provide/offer services of the same category requested.
+
+
+
+
+
+
+
+
+
+
+
+ Co-Curricular Activities
+
+
+
+Successfully coordinated activities of:
+
+Training and Placement Cell, GNDEC, Ludhiana
+
+SCIE, Students Chapter Institution of Engineers, a Society that worked to bring out the hidden talents in the students
+
+Acted as Member of the LUG, Ludhiana (Linux Users' Group)
+
+Represented college at intra college sketching and painting competitions for 3 years
+
+
+
+
+
+
+
+
+
+IT Skills
+
+
+
+Machine Learning Algorithms: 	Hypothesis Analysis, Statistical Modeling, Linear Regression, Logistic 							Regression, Time Series Analysis (TSA), SVM, Decision Tree (DT), Random 						Forest (RF), K-Nearest Neighbor (KNN), Ensemble Boosting, K-Means 							Clustering, Principle Component Analysis (PCA), Natural Language 
+
+                                                          Processing (NLP), Deep Learning, CNN, RNN, Keras.
+
+
+
+Data Visualization:                           Tableau
+
+
+
+Languages: 				Python, Shell scripting, Java
+
+
+
+Database: 				MYSQL
+
+
+
+ Personal Details
+
+
+
+Date of Birth: 14th December 
+
+Languages Known: Hindi, English & Punjabi
+
+Current Address: Sector 41, NOIDA-201301, Uttar Pradesh
+
+Permanent Address: 257 , Colony, Ludhiana-141007, Punjab
